@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/musthy/projects/cmakeQuickStart/build",
+  "command": "/bin/g++-9   -isystem /home/musthy/vcpkg/installed/x64-linux/include  -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/musthy/projects/cmakeQuickStart/main.cpp",
+  "file": "/home/musthy/projects/cmakeQuickStart/main.cpp"
+}
+]

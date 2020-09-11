@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "/home/musthy/vcpkg/scripts/buildsystems/vcpkg.cmake"
+    }
+}

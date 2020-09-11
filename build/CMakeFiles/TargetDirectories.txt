@@ -1,0 +1,5 @@
+/home/musthy/projects/cmakeQuickStart/build/CMakeFiles/edit_cache.dir
+/home/musthy/projects/cmakeQuickStart/build/CMakeFiles/package_source.dir
+/home/musthy/projects/cmakeQuickStart/build/CMakeFiles/rebuild_cache.dir
+/home/musthy/projects/cmakeQuickStart/build/CMakeFiles/package.dir
+/home/musthy/projects/cmakeQuickStart/build/CMakeFiles/main.dir
